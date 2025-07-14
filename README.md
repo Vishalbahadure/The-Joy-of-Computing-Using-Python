@@ -9,9 +9,9 @@ This repository is dedicated to showcasing my completion of the **"The Joy of Co
 - **Platform**: NPTEL (SWAYAM)  
 - **Instructor**: Prof. Sudarshan Iyengar  
 - **Duration**: 8 Weeks  
-- **Completed On**: [Add Month & Year]  
-- **Certificate Type**: Elite / Elite + Silver / Elite + Gold / Successfully Completed  
-- **Score**: [Add your score if applicable]
+- **Completed On**: Apr-2024
+- **Certificate Type**: Successfully Completed  
+- **Score**: 53%
 
 ## 📚 Topics Covered
 
