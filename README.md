@@ -8,7 +8,7 @@ This repository is dedicated to showcasing my completion of the **"The Joy of Co
 - **Institution**: Indian Institute of Technology Madras (IIT Madras)  
 - **Platform**: NPTEL (SWAYAM)  
 - **Instructor**: Prof. Sudarshan Iyengar  
-- **Duration**: 8 Weeks  
+- **Duration**: 12 Weeks  
 - **Completed On**: Apr-2024
 - **Certificate Type**: Successfully Completed  
 - **Score**: 53%
